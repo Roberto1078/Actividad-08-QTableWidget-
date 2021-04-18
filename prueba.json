@@ -1,0 +1,46 @@
+[
+     {
+          "id": "Delta",
+          "origen_x": 140,
+          "origen_y": 132,
+          "destino_x": 452,
+          "destino_y": 376,
+          "velocidad": "120",
+          "red": 50,
+          "green": 120,
+          "blue": 170
+     },
+     {
+          "id": "102D",
+          "origen_x": 64,
+          "origen_y": 83,
+          "destino_x": 234,
+          "destino_y": 343,
+          "velocidad": "1243",
+          "red": 4,
+          "green": 144,
+          "blue": 3
+     },
+     {
+          "id": "1093",
+          "origen_x": 67,
+          "origen_y": 78,
+          "destino_x": 232,
+          "destino_y": 343,
+          "velocidad": "1243",
+          "red": 4,
+          "green": 1,
+          "blue": 3
+     },
+     {
+          "id": "1028",
+          "origen_x": 10,
+          "origen_y": 22,
+          "destino_x": 23,
+          "destino_y": 34,
+          "velocidad": "12",
+          "red": 1,
+          "green": 1,
+          "blue": 3
+     }
+]
